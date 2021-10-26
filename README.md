@@ -6,6 +6,8 @@
 
 Aprender a programar é ter nas mãos o "poder" de melhorar ou facilitar a vida das pessoas, por meio da criação de softwares e aplicativos que possam resolver problemas reais da sociedade e tornar o mundo um lugar melhor para se viver. "É a coisa mais próxima que existe de ter superpoderes", como citou Houston.
 
+##
+
 <div align="center">
   <a href="https://github.com/ElaineMeneses">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElaineMeneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
