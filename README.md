@@ -1,6 +1,6 @@
 ## Olá mundo! Eu sou a Elaine Meneses
 
-- 🔭 Hoje procuro uma oportunidade na área de front end
+- 🔭 Hoje procuro uma oportunidade na área de desenvolvedora de software
 - 🌱 Estudando HTML. CSS e JavaScript
 - 📫 E-mail: elaine.meneses05@gmail.com
 
