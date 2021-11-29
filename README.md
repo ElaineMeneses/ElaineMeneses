@@ -1,4 +1,4 @@
-## Olá! Eu sou a Elaine Meneses
+## Olá mundo! Eu sou a Elaine Meneses
 
 - 🔭 Hoje eu trabalho como Analista de sistema Pleno
 - 🌱 Estudando front-end
